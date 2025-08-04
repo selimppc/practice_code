@@ -1,0 +1,5 @@
+Q: What is a liveness and readiness probe?
+A: A liveness probe is a mechanism used to determine if a container is running and responsive.
+
+A readiness probe is a mechanism used to determine if a container is ready to receive traffic.
+

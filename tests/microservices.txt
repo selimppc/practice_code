@@ -1,0 +1,70 @@
+// Q Microservices: 
+
+Q: What is API gateway: 
+A: A central entry point that handles routing, authentication, and rate limit for Microservices
+
+Q: What is Service Discovery:
+A: A mechanism that allows services to find and communicate with each other
+
+Q: What is Circuit Breaker:
+A: A pattern that detects when a service is not responding and prevents further requests to it
+
+Q: Difference between Retry and Fallback
+A: Retry is when a service tries again to complete a request, Fallback is when a service returns a default value or alternative response
+
+Q: What is Event Sourcing:
+A: A pattern that stores the history of an application's state as a sequence of events
+
+Q: What is CQRS:    
+A: A pattern that separates the command and query logic of an application   
+
+CQRS stands for Command Query Responsibility Segregation. It is a pattern that separates the command and query logic of an application
+
+Q: What is Event-Driven Architecture:
+A: A pattern that uses events to communicate between services   
+
+Q: What is Microservices Architecture:
+A: A pattern that structures an application as a collection of small, independent services
+
+Q: What is Service Mesh:
+A: A layer of infrastructure that provides service discovery, traffic management, and security for microservices
+
+Q: What is API Gateway: 
+A: A central entry point that handles routing, authentication, and rate limiting for microservices 
+
+Q: What is Load Balancer:
+A: A device that distributes incoming network traffic across multiple servers to improve responsiveness, reliability, and scalability
+
+Q: What is Service Registry:
+A: A centralized repository that stores information about available services and their instances
+
+Q: What is API Security:
+A: A set of measures to protect APIs from unauthorized access, data breaches, and other security threats
+
+Q: What is API Gateway Security:
+A: A set of measures to protect the API gateway from unauthorized access, data breaches, and other security threats
+
+Q: What is API Key:
+A: A unique identifier used to authenticate and authorize API requests
+
+Q: What is OAuth:
+A: An authorization framework that allows users to grant third-party applications limited access to their resources on another
+
+Q: What is JWT (JSON Web Token):
+A: A compact, URL-safe means of representing claims to be transferred between two parties
+
+Q: What is SSL/TLS:
+A: A cryptographic protocol that provides secure communication between a client and a server
+
+Q: What is Load Balancer Security:
+A: A set of measures to protect the load balancer from unauthorized access, data breaches, and 
+other security threats 
+
+Q: What is Service Mesh Security:
+A: A set of measures to protect the service mesh from unauthorized access, data breaches, and 
+other security threats
+
+
+
+
+

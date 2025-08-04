@@ -1,0 +1,16 @@
+Design a scalable service that matches service providers with client gig requests in real-time (like Uber for gig jobs). What components do you use?
+
+High Level :
+
+Client APP -> API Gateway -> MatchMaking Service -> Worker Queue -> Service Provider APP <- Notification Service 
+
+Q: what is system design? 
+A: System design is the process of defining the architecture, components, and interfaces of a system, including th
+e relationships between them. It involves identifying the functional and non-functional requirements of the system, and designing
+the system to meet those requirements.
+
+Q: What is the purpose of the system design?
+A: The purpose of system design is to create a system that meets the requirements of the users and
+stakeholders, and is scalable, maintainable, and efficient.
+
+

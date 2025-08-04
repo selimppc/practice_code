@@ -1,0 +1,8 @@
+Q : What is SLI/SLO: 
+A: 
+
+SLI: Service Level Indicator (e.g. error rate)
+
+SLO: Service Level Objective (e.g. 99.9% uptime)
+
+
